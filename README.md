@@ -1,4 +1,4 @@
-# SSC Compiler - Flex and Bison
+# Compiler Using Flex, Bison, LLVM, and MLIR
 
 This project is created and executed on **Ubuntu 22.04.4 LTS**. It uses **Flex 2.6.4** and **GNU Bison 3.8.2**. The project should work on other operating systems and software versions, but no guarantees are provided.
 
