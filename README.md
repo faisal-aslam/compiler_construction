@@ -74,7 +74,7 @@ make help
 
 - `ssc.l`: The Flex file for the lexical analyzer
 - `ssc.y`: The Bison file for the syntax and semantic analyzer
-- 'IR.h': The header file containing all the C/C++ code.
+- `IR.h`: The header file containing all the C/C++ code.
 - `input.ssc`: A sample input file containing Simple Simple C code to test if the compiler works
 
 ## Note
