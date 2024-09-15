@@ -80,5 +80,3 @@ make help
 ## Note
 
 Ensure that you are in the correct directory (`ssc-flex-bison` or `ssc-flex-bison-llvm`) before running any commands. Each folder has its own `Makefile` and files necessary for compilation and execution.
-
-Everything should now be properly inside the `README.md` content block. Let me know if further adjustments are needed!
