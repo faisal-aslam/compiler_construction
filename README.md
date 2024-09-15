@@ -1,6 +1,3 @@
-It looks like there was a formatting issue in my previous message that caused the **"Compiling the Compiler"** section to appear outside the `README.md` block. Here’s the corrected version with everything properly included inside the `README.md` file:
-
-```markdown
 # SSC Compiler - Flex and Bison
 
 This project is created and executed on **Ubuntu 22.04.4 LTS**. It uses **Flex 2.6.4** and **GNU Bison 3.8.2**. The project should work on other operating systems and software versions, but no guarantees are provided.
@@ -83,6 +80,5 @@ make help
 ## Note
 
 Ensure that you are in the correct directory (`ssc-flex-bison` or `ssc-flex-bison-llvm`) before running any commands. Each folder has its own `Makefile` and files necessary for compilation and execution.
-```
 
 Everything should now be properly inside the `README.md` content block. Let me know if further adjustments are needed!
